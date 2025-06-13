@@ -1,0 +1,4 @@
+image_name,region_pair,last_conv,third_last_conv,fifth_last_conv
+3702_left_knee.nii.gz,tibia_femur,0.992214,0.9546027,0.9627624
+3702_left_knee.nii.gz,tibia_background,0.60735977,0.16242956,0.81802297
+3702_left_knee.nii.gz,femur_background,0.6252266,0.15554024,0.7656874
