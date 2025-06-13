@@ -1,4 +1,4 @@
-# This is ths submission of RA task III
+# This is the submission of RA task III
 
 ## Replication 
 To replicate the results run main.py in src folder. 
